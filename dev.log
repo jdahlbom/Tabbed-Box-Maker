@@ -1,0 +1,19 @@
+2019/01/02 Tests fixed - what was I doing again?
+
+I finally figured out what was wrong with my tests - not my code, but rather the expectations made
+in the tests.
+
+Now I have done that, I have no idea what was the main goal I was going for in this change.
+
+Big picture: 
+Tray creation should operate on much higher abstraction level, "16 cards with Mayday Mini Euro sleeve"-level.
+
+To get there: 
+Tray creation needs to use absolute positioning within a piece, in order to make it easier to
+generate each piece from high level specification.
+
+Earlier thoughts, as I recall it:
+Trays should be specified row-wise as a series of slots with minimum size requirements and possible elasticity,
+intermediate tray configuration should be computed and generated from that specification into absolute coordinates.
+
+
