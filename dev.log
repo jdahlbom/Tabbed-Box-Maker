@@ -1,0 +1,7 @@
+2019-11-24
+Turns out Inkscape viewer does not in fact us the specified viewBox but rather changes to viewbox
+to pixel scale. mm to pixel scale is 0.26458
+
+In inkscape 0.92 this can be corrected by setting File > Document Properties > Viewbox : Set the width
+and height to the specified Custom Size. Paths should have the right scale then.
+

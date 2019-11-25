@@ -1,0 +1,19 @@
+A2 Monster and event cards on 3.5mm in Epilog Fusion M2  21 min
+"Reduced" event cards and monster card, 2mm, in Epilog Fusion M2  1.5 min
+
+
+2018/08/21  Did first cuts with 3.5mm, the accumulating nature of hole
+cutting broke when switched from 3 -> 3.5mm. Need to implement absolute
+positioning of holes.
+
+
+Notes on card measurements:
+Assume card stock of "80 pound paper", and use .01 inches as thickness.
+https://bizfluent.com/facts-7618919-card-stock-thickness-guide.html
+
+.01 inch is approximately 0.26mm, so assume 0.3mm per card for safety
+
+Mayday bulk sleeves are 40 microns thick, so 0.04mm.
+https://www.maydaygames.com/products/mini-euro-card-sleeves
+
+Total per card thickness is then 0.35 mm

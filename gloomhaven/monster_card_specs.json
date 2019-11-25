@@ -1,0 +1,236 @@
+{
+
+	"item-types": {
+		"mayday-minieuro-side": {
+			"width": 72,
+			"height": 47,
+			"thickness": 0.625
+		},
+		"gloomhaven-monster-health-sleeve": {
+			"width": 106,
+			"height": 35,
+			"thickness": 106
+		}
+	},
+	"name":"gloomhaven-monster-cards",
+	"description": "32 monster decks and health dials, including Forgotten Circles",
+	"dimensions": {
+		"width": 277,
+		"height": 129
+	},
+	"columns":
+	[
+		{
+			"elastic": false,
+			"slots": [
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			}
+
+		]},
+
+		{
+			"elastic": false,
+			"slots": [
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			},
+			{
+				"item": "mayday-minieuro-side",
+				"amount": 8,
+				"spacer-indent": 0.3
+
+			}
+
+		]},
+		{
+			"elastic": true,
+			"slots": [
+			{
+				"item": "gloomhaven-monster-health-sleeve",
+				"amount": 1,
+				"elastic": true
+			}
+		]}
+
+	]
+}
